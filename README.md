@@ -1,5 +1,5 @@
 # dlibra-py
-Python interface for accessing dLibra-powered digital libraries
+Python interface for accessing dLibra-powered digital libraries using OAI-PMH protocol.
 
 ## Links
 
